@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\Bai Tap Dien Tu\Bai Tap Dien Tu\bin\Debug\net8.0-windows\Bai Tap Dien Tu.exe
+C:\Users\ACER\source\repos\Bai Tap Dien Tu\Bai Tap Dien Tu\bin\Debug\net8.0-windows\Bai Tap Dien Tu.deps.json
+C:\Users\ACER\source\repos\Bai Tap Dien Tu\Bai Tap Dien Tu\bin\Debug\net8.0-windows\Bai Tap Dien Tu.runtimeconfig.json
+C:\Users\ACER\source\repos\Bai Tap Dien Tu\Bai Tap Dien Tu\bin\Debug\net8.0-windows\Bai Tap Dien Tu.dll
+C:\Users\ACER\source\repos\Bai Tap Dien Tu\Bai Tap Dien Tu\bin\Debug\net8.0-windows\Bai Tap Dien Tu.pdb
+C:\Users\ACER\source\repos\Bai Tap Dien Tu\Bai Tap Dien Tu\obj\Debug\net8.0-windows\Bai_Tap_Dien_Tu.Form1.resources
+C:\Users\ACER\source\repos\Bai Tap Dien Tu\Bai Tap Dien Tu\obj\Debug\net8.0-windows\Bai Tap Dien Tu.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Bai Tap Dien Tu\Bai Tap Dien Tu\obj\Debug\net8.0-windows\Bai Tap Dien Tu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Bai Tap Dien Tu\Bai Tap Dien Tu\obj\Debug\net8.0-windows\Bai Tap Dien Tu.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Bai Tap Dien Tu\Bai Tap Dien Tu\obj\Debug\net8.0-windows\Bai Tap Dien Tu.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Bai Tap Dien Tu\Bai Tap Dien Tu\obj\Debug\net8.0-windows\Bai Tap Dien Tu.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Bai Tap Dien Tu\Bai Tap Dien Tu\obj\Debug\net8.0-windows\Bai Tap Dien Tu.dll
+C:\Users\ACER\source\repos\Bai Tap Dien Tu\Bai Tap Dien Tu\obj\Debug\net8.0-windows\refint\Bai Tap Dien Tu.dll
+C:\Users\ACER\source\repos\Bai Tap Dien Tu\Bai Tap Dien Tu\obj\Debug\net8.0-windows\Bai Tap Dien Tu.pdb
+C:\Users\ACER\source\repos\Bai Tap Dien Tu\Bai Tap Dien Tu\obj\Debug\net8.0-windows\Bai Tap Dien Tu.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Bai Tap Dien Tu\Bai Tap Dien Tu\obj\Debug\net8.0-windows\ref\Bai Tap Dien Tu.dll
+C:\Users\ACER\source\repos\Bai Tap Dien Tu\Bai Tap Dien Tu\obj\Debug\net8.0-windows\Bai_Tap_Dien_Tu.Form2.resources

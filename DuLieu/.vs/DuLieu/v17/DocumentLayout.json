@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\DuLieu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE908FA-E169-4D3A-9FA1-AE3369B69038}|DuLieu\\DuLieu.csproj|c:\\users\\acer\\source\\repos\\dulieu\\dulieu\\views\\shared\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEE908FA-E169-4D3A-9FA1-AE3369B69038}|DuLieu\\DuLieu.csproj|solutionrelative:dulieu\\views\\shared\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE908FA-E169-4D3A-9FA1-AE3369B69038}|DuLieu\\DuLieu.csproj|c:\\users\\acer\\source\\repos\\dulieu\\dulieu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE908FA-E169-4D3A-9FA1-AE3369B69038}|DuLieu\\DuLieu.csproj|solutionrelative:dulieu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\DuLieu\\DuLieu\\Views\\Shared\\View.cshtml",
+              "RelativeDocumentMoniker": "DuLieu\\Views\\Shared\\View.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\DuLieu\\DuLieu\\Views\\Shared\\View.cshtml*",
+              "RelativeToolTip": "DuLieu\\Views\\Shared\\View.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T06:54:27.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\DuLieu\\DuLieu\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DuLieu\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\DuLieu\\DuLieu\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DuLieu\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T06:35:37.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

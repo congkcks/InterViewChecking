@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|c:\\users\\acer\\source\\repos\\webapplication12\\webapplication12\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|c:\\users\\acer\\source\\repos\\webapplication12\\webapplication12\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|c:\\users\\acer\\source\\repos\\webapplication12\\webapplication12\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|c:\\users\\acer\\source\\repos\\webapplication12\\webapplication12\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|c:\\users\\acer\\source\\repos\\webapplication12\\webapplication12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|c:\\users\\acer\\source\\repos\\webapplication12\\webapplication12\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|c:\\users\\acer\\source\\repos\\webapplication12\\webapplication12\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|c:\\users\\acer\\source\\repos\\webapplication12\\webapplication12\\views\\shared\\components\\render\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\views\\shared\\components\\render\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|c:\\users\\acer\\source\\repos\\webapplication12\\webapplication12\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|c:\\users\\acer\\source\\repos\\webapplication12\\webapplication12\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|c:\\users\\acer\\source\\repos\\webapplication12\\webapplication12\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|c:\\users\\acer\\source\\repos\\webapplication12\\webapplication12\\views\\home\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D13A038C-CB88-49A7-B304-FC4659767814}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\views\\home\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeftMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Shared\\LeftMenu.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12\\Views\\Shared\\LeftMenu.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Shared\\LeftMenu.cshtml",
+              "RelativeToolTip": "WebApplication12\\Views\\Shared\\LeftMenu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T07:22:39.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication12\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\Program.cs",
+              "RelativeToolTip": "WebApplication12\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:15:22.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication12\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T06:25:48.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyLayoutHelper.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeToolTip": "WebApplication12\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwCcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T06:23:14.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Shared\\Components\\Render\\Default.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12\\Views\\Shared\\Components\\Render\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Shared\\Components\\Render\\Default.cshtml",
+              "RelativeToolTip": "WebApplication12\\Views\\Shared\\Components\\Render\\Default.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T06:02:16.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SanPham.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Home\\SanPham.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12\\Views\\Home\\SanPham.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Home\\SanPham.cshtml",
+              "RelativeToolTip": "WebApplication12\\Views\\Home\\SanPham.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T05:56:14.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TopNav.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Shared\\TopNav.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12\\Views\\Shared\\TopNav.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Shared\\TopNav.cshtml",
+              "RelativeToolTip": "WebApplication12\\Views\\Shared\\TopNav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T05:55:15.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12\\Views\\Shared\\MyLayout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeToolTip": "WebApplication12\\Views\\Shared\\MyLayout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwCAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T09:11:06.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RenderViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\ViewComponents\\RenderViewComponent.cs",
+              "RelativeDocumentMoniker": "WebApplication12\\ViewComponents\\RenderViewComponent.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\ViewComponents\\RenderViewComponent.cs",
+              "RelativeToolTip": "WebApplication12\\ViewComponents\\RenderViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:10:55.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "WebApplication12\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\Models\\MenuItem.cs",
+              "RelativeToolTip": "WebApplication12\\Models\\MenuItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:10:47.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "WebApplication12\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T07:03:42.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication12\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApplication12\\WebApplication12\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication12\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:03:31.982Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

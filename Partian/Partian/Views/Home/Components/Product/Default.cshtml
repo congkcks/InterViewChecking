@@ -1,0 +1,12 @@
+﻿@using Partian.Models
+@model List<SanPham>
+
+<ul class="list-group">
+    <li class="list-group-item">
+        @foreach(var item in Model)
+        {
+            @item.TenSP <strong>@item.MaSP</strong> 
+            <br />
+        }
+    </li>
+</ul>

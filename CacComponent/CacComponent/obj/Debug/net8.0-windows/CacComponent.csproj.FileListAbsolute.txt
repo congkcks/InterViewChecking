@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\CacComponent\CacComponent\bin\Debug\net8.0-windows\CacComponent.exe
+C:\Users\ACER\source\repos\CacComponent\CacComponent\bin\Debug\net8.0-windows\CacComponent.deps.json
+C:\Users\ACER\source\repos\CacComponent\CacComponent\bin\Debug\net8.0-windows\CacComponent.runtimeconfig.json
+C:\Users\ACER\source\repos\CacComponent\CacComponent\bin\Debug\net8.0-windows\CacComponent.dll
+C:\Users\ACER\source\repos\CacComponent\CacComponent\bin\Debug\net8.0-windows\CacComponent.pdb
+C:\Users\ACER\source\repos\CacComponent\CacComponent\obj\Debug\net8.0-windows\CacComponent.Form1.resources
+C:\Users\ACER\source\repos\CacComponent\CacComponent\obj\Debug\net8.0-windows\CacComponent.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\CacComponent\CacComponent\obj\Debug\net8.0-windows\CacComponent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\CacComponent\CacComponent\obj\Debug\net8.0-windows\CacComponent.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\CacComponent\CacComponent\obj\Debug\net8.0-windows\CacComponent.AssemblyInfo.cs
+C:\Users\ACER\source\repos\CacComponent\CacComponent\obj\Debug\net8.0-windows\CacComponent.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\CacComponent\CacComponent\obj\Debug\net8.0-windows\CacComponent.dll
+C:\Users\ACER\source\repos\CacComponent\CacComponent\obj\Debug\net8.0-windows\refint\CacComponent.dll
+C:\Users\ACER\source\repos\CacComponent\CacComponent\obj\Debug\net8.0-windows\CacComponent.pdb
+C:\Users\ACER\source\repos\CacComponent\CacComponent\obj\Debug\net8.0-windows\CacComponent.genruntimeconfig.cache
+C:\Users\ACER\source\repos\CacComponent\CacComponent\obj\Debug\net8.0-windows\ref\CacComponent.dll
+C:\Users\ACER\source\repos\CacComponent\CacComponent\obj\Debug\net8.0-windows\CacComponent.Properties.Resources.resources

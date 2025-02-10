@@ -1,0 +1,47 @@
+﻿@page "/Home/ViewProduct/{id:int}"
+@using WebApplication20.Models
+@model Product
+@inject ProductContext ProductContext
+@functions {
+    Product? product;
+    string? errorMessage;
+
+    void OnGet(int id)
+    {
+        product = ProductContext.FindProductByID(id);
+        if (product == null)
+        {
+            errorMessage = $"Product with ID {id} not found.";
+        }
+    }
+}
+
+@{
+    // Razor Pages sẽ tự động gọi OnGet với tham số id từ URL
+}
+
+@if (!string.IsNullOrEmpty(errorMessage))
+{
+    <div class="alert alert-danger">@errorMessage</div>
+}
+else if (product != null)
+{
+    <h2>@product.Name</h2>
+    <p>Mô tả: @product.Desciption</p>
+    <p>Giá: @product.Price</p>
+    <p>
+        <a asp-page="/Home/ViewProduct" asp-route-id="@product.ID">Sản phẩm khác</a>
+    </p>
+}
+else
+{
+    <h2>Các sản phẩm</h2>
+    <ul>
+        @foreach (var p in ProductContext.products)
+        {
+            <li>
+                <a asp-page="/Home/ViewProduct" asp-route-id="@p.ID">@p.Name</a>
+            </li>
+        }
+    </ul>
+}

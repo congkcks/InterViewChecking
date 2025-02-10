@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\Orders Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72F5B6B2-DA17-4342-820F-23E777C3B687}|Orders Application\\Orders Application.csproj|c:\\users\\acer\\source\\repos\\orders application\\orders application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72F5B6B2-DA17-4342-820F-23E777C3B687}|Orders Application\\Orders Application.csproj|solutionrelative:orders application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F5B6B2-DA17-4342-820F-23E777C3B687}|Orders Application\\Orders Application.csproj|c:\\users\\acer\\source\\repos\\orders application\\orders application\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72F5B6B2-DA17-4342-820F-23E777C3B687}|Orders Application\\Orders Application.csproj|solutionrelative:orders application\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F5B6B2-DA17-4342-820F-23E777C3B687}|Orders Application\\Orders Application.csproj|c:\\users\\acer\\source\\repos\\orders application\\orders application\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72F5B6B2-DA17-4342-820F-23E777C3B687}|Orders Application\\Orders Application.csproj|solutionrelative:orders application\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F5B6B2-DA17-4342-820F-23E777C3B687}|Orders Application\\Orders Application.csproj|c:\\users\\acer\\source\\repos\\orders application\\orders application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F5B6B2-DA17-4342-820F-23E777C3B687}|Orders Application\\Orders Application.csproj|solutionrelative:orders application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 303,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 97,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Orders Application\\Orders Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Orders Application\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Orders Application\\Orders Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Orders Application\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T04:08:10.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Orders Application\\Orders Application\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Orders Application\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Orders Application\\Orders Application\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Orders Application\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T04:08:02.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Orders Application\\Orders Application\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Orders Application\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Orders Application\\Orders Application\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Orders Application\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T04:04:06.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Orders Application\\Orders Application\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Orders Application\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Orders Application\\Orders Application\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Orders Application\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T04:02:08.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

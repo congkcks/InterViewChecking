@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\BaiLAm\BaiLAm\bin\Debug\net8.0-windows\BaiLAm.exe
+C:\Users\ACER\source\repos\BaiLAm\BaiLAm\bin\Debug\net8.0-windows\BaiLAm.deps.json
+C:\Users\ACER\source\repos\BaiLAm\BaiLAm\bin\Debug\net8.0-windows\BaiLAm.runtimeconfig.json
+C:\Users\ACER\source\repos\BaiLAm\BaiLAm\bin\Debug\net8.0-windows\BaiLAm.dll
+C:\Users\ACER\source\repos\BaiLAm\BaiLAm\bin\Debug\net8.0-windows\BaiLAm.pdb
+C:\Users\ACER\source\repos\BaiLAm\BaiLAm\obj\Debug\net8.0-windows\BaiLAm.Form1.resources
+C:\Users\ACER\source\repos\BaiLAm\BaiLAm\obj\Debug\net8.0-windows\BaiLAm.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\BaiLAm\BaiLAm\obj\Debug\net8.0-windows\BaiLAm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\BaiLAm\BaiLAm\obj\Debug\net8.0-windows\BaiLAm.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\BaiLAm\BaiLAm\obj\Debug\net8.0-windows\BaiLAm.AssemblyInfo.cs
+C:\Users\ACER\source\repos\BaiLAm\BaiLAm\obj\Debug\net8.0-windows\BaiLAm.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\BaiLAm\BaiLAm\obj\Debug\net8.0-windows\BaiLAm.dll
+C:\Users\ACER\source\repos\BaiLAm\BaiLAm\obj\Debug\net8.0-windows\refint\BaiLAm.dll
+C:\Users\ACER\source\repos\BaiLAm\BaiLAm\obj\Debug\net8.0-windows\BaiLAm.pdb
+C:\Users\ACER\source\repos\BaiLAm\BaiLAm\obj\Debug\net8.0-windows\BaiLAm.genruntimeconfig.cache
+C:\Users\ACER\source\repos\BaiLAm\BaiLAm\obj\Debug\net8.0-windows\ref\BaiLAm.dll

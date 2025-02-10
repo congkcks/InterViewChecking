@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\ProJectthucte\ProJectthucte\bin\Debug\ProJectthucte.exe.config
+C:\Users\ACER\source\repos\ProJectthucte\ProJectthucte\bin\Debug\ProJectthucte.exe
+C:\Users\ACER\source\repos\ProJectthucte\ProJectthucte\bin\Debug\ProJectthucte.pdb
+C:\Users\ACER\source\repos\ProJectthucte\ProJectthucte\obj\Debug\ProJectthucte.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\ProJectthucte\ProJectthucte\obj\Debug\ProJectthucte.Form1.resources
+C:\Users\ACER\source\repos\ProJectthucte\ProJectthucte\obj\Debug\ProJectthucte.Properties.Resources.resources
+C:\Users\ACER\source\repos\ProJectthucte\ProJectthucte\obj\Debug\ProJectthucte.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\ProJectthucte\ProJectthucte\obj\Debug\ProJectthucte.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ProJectthucte\ProJectthucte\obj\Debug\ProJectthucte.exe
+C:\Users\ACER\source\repos\ProJectthucte\ProJectthucte\obj\Debug\ProJectthucte.pdb

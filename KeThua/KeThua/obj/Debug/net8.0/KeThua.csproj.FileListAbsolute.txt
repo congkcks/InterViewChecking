@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\KeThua\KeThua\obj\Debug\net8.0\KeThua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\KeThua\KeThua\obj\Debug\net8.0\KeThua.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\KeThua\KeThua\obj\Debug\net8.0\KeThua.AssemblyInfo.cs
+C:\Users\ACER\source\repos\KeThua\KeThua\obj\Debug\net8.0\KeThua.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\KeThua\KeThua\bin\Debug\net8.0\KeThua.exe
+C:\Users\ACER\source\repos\KeThua\KeThua\bin\Debug\net8.0\KeThua.deps.json
+C:\Users\ACER\source\repos\KeThua\KeThua\bin\Debug\net8.0\KeThua.runtimeconfig.json
+C:\Users\ACER\source\repos\KeThua\KeThua\bin\Debug\net8.0\KeThua.dll
+C:\Users\ACER\source\repos\KeThua\KeThua\bin\Debug\net8.0\KeThua.pdb
+C:\Users\ACER\source\repos\KeThua\KeThua\obj\Debug\net8.0\KeThua.dll
+C:\Users\ACER\source\repos\KeThua\KeThua\obj\Debug\net8.0\refint\KeThua.dll
+C:\Users\ACER\source\repos\KeThua\KeThua\obj\Debug\net8.0\KeThua.pdb
+C:\Users\ACER\source\repos\KeThua\KeThua\obj\Debug\net8.0\KeThua.genruntimeconfig.cache
+C:\Users\ACER\source\repos\KeThua\KeThua\obj\Debug\net8.0\ref\KeThua.dll

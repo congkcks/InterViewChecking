@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\ProJectthucte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2688CA70-30A6-4FEC-A139-F0B19AA395C8}|ProJectthucte\\ProJectthucte.csproj|c:\\users\\acer\\source\\repos\\projectthucte\\projectthucte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2688CA70-30A6-4FEC-A139-F0B19AA395C8}|ProJectthucte\\ProJectthucte.csproj|solutionrelative:projectthucte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2688CA70-30A6-4FEC-A139-F0B19AA395C8}|ProJectthucte\\ProJectthucte.csproj|C:\\Users\\ACER\\source\\repos\\ProJectthucte\\projectthucte\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2688CA70-30A6-4FEC-A139-F0B19AA395C8}|ProJectthucte\\ProJectthucte.csproj|solutionrelative:projectthucte\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2688CA70-30A6-4FEC-A139-F0B19AA395C8}|ProJectthucte\\ProJectthucte.csproj|C:\\Users\\ACER\\source\\repos\\ProJectthucte\\projectthucte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2688CA70-30A6-4FEC-A139-F0B19AA395C8}|ProJectthucte\\ProJectthucte.csproj|solutionrelative:projectthucte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2688CA70-30A6-4FEC-A139-F0B19AA395C8}|ProJectthucte\\ProJectthucte.csproj|C:\\Users\\ACER\\source\\repos\\ProJectthucte\\projectthucte\\model\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2688CA70-30A6-4FEC-A139-F0B19AA395C8}|ProJectthucte\\ProJectthucte.csproj|solutionrelative:projectthucte\\model\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2688CA70-30A6-4FEC-A139-F0B19AA395C8}|ProJectthucte\\ProJectthucte.csproj|C:\\Users\\ACER\\source\\repos\\ProJectthucte\\projectthucte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2688CA70-30A6-4FEC-A139-F0B19AA395C8}|ProJectthucte\\ProJectthucte.csproj|solutionrelative:projectthucte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2688CA70-30A6-4FEC-A139-F0B19AA395C8}|ProJectthucte\\ProJectthucte.csproj|C:\\Users\\ACER\\source\\repos\\ProJectthucte\\projectthucte\\model\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2688CA70-30A6-4FEC-A139-F0B19AA395C8}|ProJectthucte\\ProJectthucte.csproj|solutionrelative:projectthucte\\model\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2688CA70-30A6-4FEC-A139-F0B19AA395C8}|ProJectthucte\\ProJectthucte.csproj|C:\\Users\\ACER\\source\\repos\\ProJectthucte\\projectthucte\\model\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2688CA70-30A6-4FEC-A139-F0B19AA395C8}|ProJectthucte\\ProJectthucte.csproj|solutionrelative:projectthucte\\model\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lop.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\ProJectthucte\\ProJectthucte\\model\\Lop.cs",
+              "RelativeDocumentMoniker": "ProJectthucte\\model\\Lop.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\ProJectthucte\\ProJectthucte\\model\\Lop.cs",
+              "RelativeToolTip": "ProJectthucte\\model\\Lop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:56:09.024Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Khoa.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\ProJectthucte\\ProJectthucte\\model\\Khoa.cs",
+              "RelativeDocumentMoniker": "ProJectthucte\\model\\Khoa.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\ProJectthucte\\ProJectthucte\\model\\Khoa.cs",
+              "RelativeToolTip": "ProJectthucte\\model\\Khoa.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:56:10.054Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\ProJectthucte\\ProJectthucte\\Form1.cs",
+              "RelativeDocumentMoniker": "ProJectthucte\\Form1.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\ProJectthucte\\ProJectthucte\\Form1.cs",
+              "RelativeToolTip": "ProJectthucte\\Form1.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAAAIwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:48:13.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\ProJectthucte\\ProJectthucte\\Program.cs",
+              "RelativeDocumentMoniker": "ProJectthucte\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\ProJectthucte\\ProJectthucte\\Program.cs",
+              "RelativeToolTip": "ProJectthucte\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:46:58.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\ProJectthucte\\ProJectthucte\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ProJectthucte\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\ProJectthucte\\ProJectthucte\\Form1.Designer.cs",
+              "RelativeToolTip": "ProJectthucte\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:46:29.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\ProJectthucte\\ProJectthucte\\Form1.cs",
+              "RelativeDocumentMoniker": "ProJectthucte\\Form1.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\ProJectthucte\\ProJectthucte\\Form1.cs [Design]",
+              "RelativeToolTip": "ProJectthucte\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:46:30.28Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\ProJectthucte\\ProJectthucte\\model\\SinhVien.cs",
+              "RelativeDocumentMoniker": "ProJectthucte\\model\\SinhVien.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\ProJectthucte\\ProJectthucte\\model\\SinhVien.cs",
+              "RelativeToolTip": "ProJectthucte\\model\\SinhVien.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvw0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:18:28.913Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+@{
+    var sanpham1= new SanPham("01","Thit Bam","100");
+    var sanpham2= new SanPham("02","Thit Ga","200");
+    var sanpham3= new SanPham("03","Thit Lon","300");
+}
+<div class="row">
+    <div class="col-3">
+        @await Html.PartialAsync("file",sanpham1)
+    </div>
+    <div class="col-3">
+        @await Html.PartialAsync("file",sanpham2)
+    </div>
+    <div class="col-3">
+        @await Html.PartialAsync("file",sanpham3)
+    </div>
+</div>
+@await Component.InvokeAsync("Product")

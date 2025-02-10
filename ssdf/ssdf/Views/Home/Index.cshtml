@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model ssdf.Models.Mau
+<div class="row">
+    <div class="col-lg-9 mx-auto rounded border p-3">
+        <form method="post">
+            <div class=" row mb-3">
+                <label asp-for=Name class="col-sm-4 col-form-label" >First Name</label>
+                 <div class="col-sm-8">
+                      <input type="text" class="form-control" name="FirstName" placeholder="First Name" asp-for=Name>
+                      <span asp-validation-for=Name></span>
+                 </div>
+            </div>
+            <div class=" row mb-3">
+                <label class="col-sm-4 col-form-label">
+                    Phone</label>
+                    <div class="col-sm-8">
+                        <input type="text" class="form-control" name="Phone" placeholder="Phone" asp-for=Phone>
+                        <span asp-validation-for=Phone></span>
+                    </div>
+
+            </div>
+            <input type="submit" name="name" value="" placeholder="Summit"/>
+        </form>
+    </div>
+
+</div>

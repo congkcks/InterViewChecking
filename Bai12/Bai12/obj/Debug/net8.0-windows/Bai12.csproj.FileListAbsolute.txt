@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\Bai12\Bai12\bin\Debug\net8.0-windows\Bai12.exe
+C:\Users\ACER\source\repos\Bai12\Bai12\bin\Debug\net8.0-windows\Bai12.deps.json
+C:\Users\ACER\source\repos\Bai12\Bai12\bin\Debug\net8.0-windows\Bai12.runtimeconfig.json
+C:\Users\ACER\source\repos\Bai12\Bai12\bin\Debug\net8.0-windows\Bai12.dll
+C:\Users\ACER\source\repos\Bai12\Bai12\bin\Debug\net8.0-windows\Bai12.pdb
+C:\Users\ACER\source\repos\Bai12\Bai12\obj\Debug\net8.0-windows\Bai12.Form1.resources
+C:\Users\ACER\source\repos\Bai12\Bai12\obj\Debug\net8.0-windows\Bai12.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Bai12\Bai12\obj\Debug\net8.0-windows\Bai12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Bai12\Bai12\obj\Debug\net8.0-windows\Bai12.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Bai12\Bai12\obj\Debug\net8.0-windows\Bai12.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Bai12\Bai12\obj\Debug\net8.0-windows\Bai12.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Bai12\Bai12\obj\Debug\net8.0-windows\Bai12.dll
+C:\Users\ACER\source\repos\Bai12\Bai12\obj\Debug\net8.0-windows\refint\Bai12.dll
+C:\Users\ACER\source\repos\Bai12\Bai12\obj\Debug\net8.0-windows\Bai12.pdb
+C:\Users\ACER\source\repos\Bai12\Bai12\obj\Debug\net8.0-windows\Bai12.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Bai12\Bai12\obj\Debug\net8.0-windows\ref\Bai12.dll

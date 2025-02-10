@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\BaiTapTuan\BaiTapTuan\obj\Debug\net6.0\BaiTapTuan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\BaiTapTuan\BaiTapTuan\obj\Debug\net6.0\BaiTapTuan.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\BaiTapTuan\BaiTapTuan\obj\Debug\net6.0\BaiTapTuan.AssemblyInfo.cs
+C:\Users\ACER\source\repos\BaiTapTuan\BaiTapTuan\obj\Debug\net6.0\BaiTapTuan.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\BaiTapTuan\BaiTapTuan\bin\Debug\net6.0\BaiTapTuan.exe
+C:\Users\ACER\source\repos\BaiTapTuan\BaiTapTuan\bin\Debug\net6.0\BaiTapTuan.deps.json
+C:\Users\ACER\source\repos\BaiTapTuan\BaiTapTuan\bin\Debug\net6.0\BaiTapTuan.runtimeconfig.json
+C:\Users\ACER\source\repos\BaiTapTuan\BaiTapTuan\bin\Debug\net6.0\BaiTapTuan.dll
+C:\Users\ACER\source\repos\BaiTapTuan\BaiTapTuan\bin\Debug\net6.0\BaiTapTuan.pdb
+C:\Users\ACER\source\repos\BaiTapTuan\BaiTapTuan\obj\Debug\net6.0\BaiTapTuan.dll
+C:\Users\ACER\source\repos\BaiTapTuan\BaiTapTuan\obj\Debug\net6.0\refint\BaiTapTuan.dll
+C:\Users\ACER\source\repos\BaiTapTuan\BaiTapTuan\obj\Debug\net6.0\BaiTapTuan.pdb
+C:\Users\ACER\source\repos\BaiTapTuan\BaiTapTuan\obj\Debug\net6.0\BaiTapTuan.genruntimeconfig.cache
+C:\Users\ACER\source\repos\BaiTapTuan\BaiTapTuan\obj\Debug\net6.0\ref\BaiTapTuan.dll

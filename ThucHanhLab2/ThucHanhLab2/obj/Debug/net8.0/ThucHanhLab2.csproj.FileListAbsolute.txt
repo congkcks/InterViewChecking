@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\ThucHanhLab2\ThucHanhLab2\obj\Debug\net8.0\ThucHanhLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\ThucHanhLab2\ThucHanhLab2\obj\Debug\net8.0\ThucHanhLab2.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\ThucHanhLab2\ThucHanhLab2\obj\Debug\net8.0\ThucHanhLab2.AssemblyInfo.cs
+C:\Users\ACER\source\repos\ThucHanhLab2\ThucHanhLab2\obj\Debug\net8.0\ThucHanhLab2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ThucHanhLab2\ThucHanhLab2\obj\Debug\net8.0\ThucHanhLab2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\source\repos\ThucHanhLab2\ThucHanhLab2\obj\Debug\net8.0\ThucHanhLab2.RazorAssemblyInfo.cache
+C:\Users\ACER\source\repos\ThucHanhLab2\ThucHanhLab2\obj\Debug\net8.0\ThucHanhLab2.RazorAssemblyInfo.cs

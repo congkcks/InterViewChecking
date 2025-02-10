@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\Partian\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6499BE45-EA07-49AF-8D9A-A48A08CAD9E6}|Partian\\Partian.csproj|c:\\users\\acer\\source\\repos\\partian\\partian\\views\\home\\components\\product\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6499BE45-EA07-49AF-8D9A-A48A08CAD9E6}|Partian\\Partian.csproj|solutionrelative:partian\\views\\home\\components\\product\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6499BE45-EA07-49AF-8D9A-A48A08CAD9E6}|Partian\\Partian.csproj|c:\\users\\acer\\source\\repos\\partian\\partian\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6499BE45-EA07-49AF-8D9A-A48A08CAD9E6}|Partian\\Partian.csproj|solutionrelative:partian\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6499BE45-EA07-49AF-8D9A-A48A08CAD9E6}|Partian\\Partian.csproj|c:\\users\\acer\\source\\repos\\partian\\partian\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6499BE45-EA07-49AF-8D9A-A48A08CAD9E6}|Partian\\Partian.csproj|solutionrelative:partian\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6499BE45-EA07-49AF-8D9A-A48A08CAD9E6}|Partian\\Partian.csproj|c:\\users\\acer\\source\\repos\\partian\\partian\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6499BE45-EA07-49AF-8D9A-A48A08CAD9E6}|Partian\\Partian.csproj|solutionrelative:partian\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6499BE45-EA07-49AF-8D9A-A48A08CAD9E6}|Partian\\Partian.csproj|c:\\users\\acer\\source\\repos\\partian\\partian\\views\\home\\file.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6499BE45-EA07-49AF-8D9A-A48A08CAD9E6}|Partian\\Partian.csproj|solutionrelative:partian\\views\\home\\file.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6499BE45-EA07-49AF-8D9A-A48A08CAD9E6}|Partian\\Partian.csproj|c:\\users\\acer\\source\\repos\\partian\\partian\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6499BE45-EA07-49AF-8D9A-A48A08CAD9E6}|Partian\\Partian.csproj|solutionrelative:partian\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "file.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Partian\\Partian\\Views\\Home\\file.cshtml",
+              "RelativeDocumentMoniker": "Partian\\Views\\Home\\file.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Partian\\Partian\\Views\\Home\\file.cshtml",
+              "RelativeToolTip": "Partian\\Views\\Home\\file.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T11:12:33.936Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Partian\\Partian\\Views\\Home\\Components\\Product\\Default.cshtml",
+              "RelativeDocumentMoniker": "Partian\\Views\\Home\\Components\\Product\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Partian\\Partian\\Views\\Home\\Components\\Product\\Default.cshtml",
+              "RelativeToolTip": "Partian\\Views\\Home\\Components\\Product\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T16:45:54.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Partian\\Partian\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Partian\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Partian\\Partian\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Partian\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:31:43.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Partian\\Partian\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Partian\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Partian\\Partian\\Models\\Product.cs",
+              "RelativeToolTip": "Partian\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:19:26.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Partian\\Partian\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "Partian\\Models\\SanPham.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Partian\\Partian\\Models\\SanPham.cs",
+              "RelativeToolTip": "Partian\\Models\\SanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:34:52.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Partian\\Partian\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Partian\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Partian\\Partian\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Partian\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T11:11:16.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

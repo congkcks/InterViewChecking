@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    var chuoi = ViewBag.FilePath;
+}
+
+<form asp-action="Upload" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="file">Upload Image</label>
+        <input type="file" name="file" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Upload</button>
+</form>
+
+@if (!string.IsNullOrEmpty(chuoi))
+{
+    <div class="alert alert-success">
+        File uploaded to: @chuoi
+    </div>
+    <img src="@chuoi" alt="Uploaded Image" class="img-fluid" />
+}

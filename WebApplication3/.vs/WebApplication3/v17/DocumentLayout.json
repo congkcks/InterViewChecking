@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD39D41-7F40-4918-8C72-958D6EBD9D07}|WebApplication3\\WebApplication3.csproj|c:\\users\\acer\\source\\repos\\webapplication3\\webapplication3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD39D41-7F40-4918-8C72-958D6EBD9D07}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD39D41-7F40-4918-8C72-958D6EBD9D07}|WebApplication3\\WebApplication3.csproj|c:\\users\\acer\\source\\repos\\webapplication3\\webapplication3\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FD39D41-7F40-4918-8C72-958D6EBD9D07}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD39D41-7F40-4918-8C72-958D6EBD9D07}|WebApplication3\\WebApplication3.csproj|c:\\users\\acer\\source\\repos\\webapplication3\\webapplication3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FD39D41-7F40-4918-8C72-958D6EBD9D07}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T08:20:23.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:49:54.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T08:19:17.532Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

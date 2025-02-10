@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\ssdf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1453AC21-8DC5-406A-97FC-D62E652868E7}|ssdf\\ssdf.csproj|c:\\users\\acer\\source\\repos\\ssdf\\ssdf\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1453AC21-8DC5-406A-97FC-D62E652868E7}|ssdf\\ssdf.csproj|solutionrelative:ssdf\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1453AC21-8DC5-406A-97FC-D62E652868E7}|ssdf\\ssdf.csproj|c:\\users\\acer\\source\\repos\\ssdf\\ssdf\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1453AC21-8DC5-406A-97FC-D62E652868E7}|ssdf\\ssdf.csproj|solutionrelative:ssdf\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1453AC21-8DC5-406A-97FC-D62E652868E7}|ssdf\\ssdf.csproj|c:\\users\\acer\\source\\repos\\ssdf\\ssdf\\models\\mau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1453AC21-8DC5-406A-97FC-D62E652868E7}|ssdf\\ssdf.csproj|solutionrelative:ssdf\\models\\mau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1453AC21-8DC5-406A-97FC-D62E652868E7}|ssdf\\ssdf.csproj|c:\\users\\acer\\source\\repos\\ssdf\\ssdf\\views\\shared\\view1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1453AC21-8DC5-406A-97FC-D62E652868E7}|ssdf\\ssdf.csproj|solutionrelative:ssdf\\views\\shared\\view1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "View1.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\ssdf\\ssdf\\Views\\Shared\\View1.cshtml",
+              "RelativeDocumentMoniker": "ssdf\\Views\\Shared\\View1.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\ssdf\\ssdf\\Views\\Shared\\View1.cshtml",
+              "RelativeToolTip": "ssdf\\Views\\Shared\\View1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T07:00:56.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mau.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\ssdf\\ssdf\\Models\\Mau.cs",
+              "RelativeDocumentMoniker": "ssdf\\Models\\Mau.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\ssdf\\ssdf\\Models\\Mau.cs",
+              "RelativeToolTip": "ssdf\\Models\\Mau.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:26:05.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\ssdf\\ssdf\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ssdf\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\ssdf\\ssdf\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ssdf\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T18:53:07.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\ssdf\\ssdf\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ssdf\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\ssdf\\ssdf\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ssdf\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T18:51:36.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

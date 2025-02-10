@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\net8.0\ConsoleApp26.exe
+C:\Users\ACER\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\net8.0\ConsoleApp26.deps.json
+C:\Users\ACER\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\net8.0\ConsoleApp26.runtimeconfig.json
+C:\Users\ACER\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\net8.0\ConsoleApp26.dll
+C:\Users\ACER\source\repos\ConsoleApp26\ConsoleApp26\bin\Debug\net8.0\ConsoleApp26.pdb
+C:\Users\ACER\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\net8.0\ConsoleApp26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\net8.0\ConsoleApp26.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\net8.0\ConsoleApp26.AssemblyInfo.cs
+C:\Users\ACER\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\net8.0\ConsoleApp26.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\net8.0\ConsoleApp26.dll
+C:\Users\ACER\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\net8.0\refint\ConsoleApp26.dll
+C:\Users\ACER\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\net8.0\ConsoleApp26.pdb
+C:\Users\ACER\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\net8.0\ConsoleApp26.genruntimeconfig.cache
+C:\Users\ACER\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\net8.0\ref\ConsoleApp26.dll
