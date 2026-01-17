@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\OK\OK\bin\Debug\net8.0\OK.exe
+C:\Users\ACER\source\repos\OK\OK\bin\Debug\net8.0\OK.deps.json
+C:\Users\ACER\source\repos\OK\OK\bin\Debug\net8.0\OK.runtimeconfig.json
+C:\Users\ACER\source\repos\OK\OK\bin\Debug\net8.0\OK.dll
+C:\Users\ACER\source\repos\OK\OK\bin\Debug\net8.0\OK.pdb
+C:\Users\ACER\source\repos\OK\OK\obj\Debug\net8.0\OK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\OK\OK\obj\Debug\net8.0\OK.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OK\OK\obj\Debug\net8.0\OK.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OK\OK\obj\Debug\net8.0\OK.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OK\OK\obj\Debug\net8.0\OK.dll
+C:\Users\ACER\source\repos\OK\OK\obj\Debug\net8.0\refint\OK.dll
+C:\Users\ACER\source\repos\OK\OK\obj\Debug\net8.0\OK.pdb
+C:\Users\ACER\source\repos\OK\OK\obj\Debug\net8.0\OK.genruntimeconfig.cache
+C:\Users\ACER\source\repos\OK\OK\obj\Debug\net8.0\ref\OK.dll

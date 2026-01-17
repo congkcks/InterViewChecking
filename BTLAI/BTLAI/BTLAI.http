@@ -1,0 +1,6 @@
+@BTLAI_HostAddress = http://localhost:5071
+
+GET {{BTLAI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

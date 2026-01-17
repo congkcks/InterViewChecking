@@ -1,0 +1,517 @@
+﻿```json
+{
+  "title": "Lộ Trình 30 Ngày Học JavaScript Cho Người Mới Bắt Đầu",
+  "description": "Lộ trình 30 ngày này được thiết kế để cung cấp một nền tảng vững chắc về JavaScript cho người mới bắt đầu, tập trung vào thực hành và ứng dụng thực tế. Mỗi ngày bao gồm lý thuyết, bài tập và các dự án nhỏ để củng cố kiến thức.",
+  "target_audience": "Người mới bắt đầu, chưa có kinh nghiệm lập trình hoặc có rất ít.",
+  "prerequisites": [
+    "Máy tính có kết nối Internet.",
+    "Trình duyệt web (Chrome, Firefox,...) và trình soạn thảo code (VS Code, Sublime Text, ...)."
+  ],
+  "schedule": [
+    {
+      "day": 1,
+      "topic": "Giới thiệu về JavaScript và Môi trường Phát Triển",
+      "activities": [
+        "JavaScript là gì? Tại sao nên học JavaScript?",
+        "Cách JavaScript hoạt động trong trình duyệt.",
+        "Thiết lập môi trường phát triển: Trình soạn thảo code, trình duyệt, console.",
+        "Nhúng JavaScript vào HTML: inline, internal, external.",
+        "Sử dụng console.log() để hiển thị thông tin và gỡ lỗi."
+      ],
+      "resources": [
+        "MDN JavaScript Guide: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)",
+        "W3Schools JavaScript: [https://www.w3schools.com/js/](https://www.w3schools.com/js/)"
+      ],
+      "exercise": "Tạo một file HTML và file JavaScript. Liên kết file JavaScript vào HTML và sử dụng `console.log()` để in ra 'Hello, World!' trong console của trình duyệt."
+    },
+    {
+      "day": 2,
+      "topic": "Kiểu Dữ Liệu và Biến",
+      "activities": [
+        "Các kiểu dữ liệu cơ bản: string, number, boolean, null, undefined, symbol.",
+        "Khai báo biến: var, let, const. Sự khác biệt về scope.",
+        "Quy tắc đặt tên biến.",
+        "Các phép toán cơ bản (+, -, *, /, %, ++, --)."
+      ],
+      "resources": [
+        "MDN Data types and variable declarations: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#data_types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#data_types)",
+        "W3Schools JavaScript Variables: [https://www.w3schools.com/js/js_variables.asp](https://www.w3schools.com/js/js_variables.asp)"
+      ],
+      "exercise": "Viết chương trình tính tổng, hiệu, tích, thương và phần dư của hai số. In kết quả ra console. Sử dụng `let` và `const` để khai báo biến."
+    },
+    {
+      "day": 3,
+      "topic": "Toán Tử và Biểu Thức",
+      "activities": [
+        "Toán tử gán, toán tử so sánh (==, ===, !=, !==, >, <, >=, <=).",
+        "Toán tử logic (&&, ||, !).",
+        "Thứ tự ưu tiên của các toán tử.",
+        "Ép kiểu dữ liệu (type coercion)."
+      ],
+      "resources": [
+        "MDN Expressions and Operators: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)",
+        "W3Schools JavaScript Comparison and Logical Operators: [https://www.w3schools.com/js/js_comparisons.asp](https://www.w3schools.com/js/js_comparisons.asp)"
+      ],
+      "exercise": "Viết chương trình kiểm tra xem một số có nằm trong khoảng từ 10 đến 20 (bao gồm 10 và 20) hay không. In kết quả ra console. Sử dụng toán tử so sánh và logic."
+    },
+    {
+      "day": 4,
+      "topic": "Cấu Trúc Điều Khiển: if-else",
+      "activities": [
+        "Cú pháp `if`, `if-else`, `if-else if-else`.",
+        "Lồng nhau (nested) `if-else`.",
+        "Toán tử điều kiện (?:)."
+      ],
+      "resources": [
+        "MDN Conditional statements: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling#conditional_statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling#conditional_statements)",
+        "W3Schools JavaScript If...Else: [https://www.w3schools.com/js/js_if_else.asp](https://www.w3schools.com/js/js_if_else.asp)"
+      ],
+      "exercise": "Viết chương trình kiểm tra xem một số do người dùng nhập vào là số âm, số dương hay bằng 0. In kết quả ra console. Sử dụng `if-else if-else`."
+    },
+    {
+      "day": 5,
+      "topic": "Vòng Lặp: for, while, do-while",
+      "activities": [
+        "Vòng lặp `for`.",
+        "Vòng lặp `while` và `do-while`.",
+        "Câu lệnh `break` và `continue`."
+      ],
+      "resources": [
+        "MDN Loops and iteration: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling#looping_statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling#looping_statements)",
+        "W3Schools JavaScript Loops: [https://www.w3schools.com/js/js_loop_for.asp](https://www.w3schools.com/js/js_loop_for.asp)"
+      ],
+      "exercise": "Viết chương trình in ra các số từ 1 đến 10 bằng vòng lặp `for`. Viết chương trình tính tổng các số từ 1 đến n (với n là số do người dùng nhập vào) bằng vòng lặp `while`."
+    },
+    {
+      "day": 6,
+      "topic": "Hàm (Functions) - Phần 1: Khái Niệm và Định Nghĩa",
+      "activities": [
+        "Khái niệm về hàm:  tại sao cần dùng hàm?",
+        "Định nghĩa hàm: function declaration và function expression.",
+        "Tham số (parameters) và đối số (arguments) của hàm.",
+        "Giá trị trả về (`return` statement)."
+      ],
+      "resources": [
+        "MDN Functions: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)",
+        "W3Schools JavaScript Functions: [https://www.w3schools.com/js/js_functions.asp](https://www.w3schools.com/js/js_functions.asp)"
+      ],
+      "exercise": "Viết các hàm để tính tổng, hiệu, tích, và thương của hai số. Sử dụng cả function declaration và function expression."
+    },
+    {
+      "day": 7,
+      "topic": "Thực hành: Xây Dựng Trò Chơi Đơn Giản (Console)",
+      "activities": [
+        "Tổng hợp kiến thức đã học để xây dựng một trò chơi đơn giản (ví dụ: trò chơi đoán số, trò chơi rock-paper-scissors) trên console."
+      ],
+      "resources": [],
+      "exercise": "Hoàn thành trò chơi đã chọn, kiểm thử và cải tiến."
+    },
+    {
+      "day": 8,
+      "topic": "Hàm (Functions) - Phần 2: Arrow Functions và Scope",
+      "activities": [
+        "Arrow functions: Cú pháp và cách sử dụng.",
+        "Scope (phạm vi) của biến: global scope, local scope, block scope.  Tìm hiểu sự khác biệt giữa `var`, `let`, và `const` trong context của scope."
+      ],
+      "resources": [
+        "MDN Arrow functions: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)",
+        "MDN Scope and closures:  (Tìm kiếm trên MDN - không có link trực tiếp)"
+      ],
+      "exercise": "Chuyển đổi các hàm đã viết ở ngày 6 (tính toán) sang dạng arrow functions. Viết một vài ví dụ đơn giản để minh họa sự khác biệt giữa các loại scope."
+    },
+    {
+      "day": 9,
+      "topic": "Mảng (Arrays) - Phần 1",
+      "activities": [
+        "Khái niệm mảng.",
+        "Tạo mảng (array literals và constructor).",
+        "Truy cập và thay đổi các phần tử.",
+        "Thuộc tính `length` của mảng.",
+        "Các phương thức cơ bản: `push`, `pop`, `shift`, `unshift`."
+      ],
+      "resources": [
+        "MDN Arrays: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)",
+        "W3Schools JavaScript Arrays: [https://www.w3schools.com/js/js_arrays.asp](https://www.w3schools.com/js/js_arrays.asp)"
+      ],
+      "exercise": "Tạo một mảng chứa các tên. Thực hiện các thao tác thêm, xóa, và thay đổi các phần tử trong mảng. In ra console kết quả sau mỗi thao tác."
+    },
+    {
+      "day": 10,
+      "topic": "Mảng (Arrays) - Phần 2:  Phương Thức Mảng Nâng Cao",
+      "activities": [
+        "Các phương thức mảng nâng cao: `splice`, `slice`, `concat`, `indexOf`, `join`, `forEach`, `map`, `filter`, `reduce`.",
+        "Ứng dụng các phương thức này để thao tác và xử lý dữ liệu mảng."
+      ],
+      "resources": [
+        "MDN Array Methods: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#methods)"
+      ],
+      "exercise": "Sử dụng các phương thức `map`, `filter`, và `reduce` để xử lý một mảng số: tạo một mảng mới chứa các số bình phương, lọc ra các số chẵn, và tính tổng các số trong mảng."
+    },
+    {
+      "day": 11,
+      "topic": "Đối Tượng (Objects) - Phần 1",
+      "activities": [
+        "Khái niệm đối tượng.",
+        "Tạo đối tượng (object literals).",
+        "Truy cập và thay đổi thuộc tính (properties) của đối tượng (dot notation và bracket notation).",
+        "Thuộc tính và phương thức.",
+        "Từ khóa `this` và bối cảnh của nó trong đối tượng."
+      ],
+      "resources": [
+        "MDN Objects: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_objects)",
+        "W3Schools JavaScript Objects: [https://www.w3schools.com/js/js_objects.asp](https://www.w3schools.com/js/js_objects.asp)"
+      ],
+      "exercise": "Tạo một đối tượng `person` với các thuộc tính `name`, `age`, `city`, và một phương thức `introduce()` để in ra thông tin cá nhân (sử dụng `this`)."
+    },
+    {
+      "day": 12,
+      "topic": "Đối Tượng (Objects) - Phần 2:  Object Methods và Destructuring",
+      "activities": [
+        "Object methods: `Object.keys()`, `Object.values()`, `Object.entries()`, `Object.assign()`.",
+        "Vòng lặp `for...in` để duyệt qua các thuộc tính của đối tượng.",
+        "Object destructuring: cú pháp và ứng dụng.  Shorthand property names."
+      ],
+      "resources": [
+        "MDN Object Methods: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)",
+        "JavaScript.info - Object destructuring: [https://javascript.info/destructuring](https://javascript.info/destructuring)"
+      ],
+      "exercise": "Sử dụng Object methods để lấy thông tin (keys, values, entries) từ một đối tượng `book` (title, author, pages) và in ra console. Sử dụng object destructuring để truy cập các thuộc tính của đối tượng."
+    },
+    {
+      "id": "JS-DAY13-001",
+      "title": "DOM (Document Object Model) - Phần 1: Truy Cập Phần Tử",
+      "difficulty": "beginner",
+      "type": "practice",
+      "description": "Giới thiệu về DOM:  Khái niệm, cấu trúc.",
+      "hints": [
+        "DOM (Document Object Model) là một giao diện lập trình cho các tài liệu HTML.",
+        "Sử dụng `document.getElementById('id')`, `document.getElementsByClassName('class')`, và `document.getElementsByTagName('tag')` để truy cập các phần tử HTML."
+      ],
+      "solution": "Tạo một trang HTML đơn giản và sử dụng JavaScript để truy cập các phần tử bằng các phương thức đã học.",
+      "resources": [
+        "MDN DOM: [https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)",
+        "W3Schools JavaScript HTML DOM: [https://www.w3schools.com/js/js_htmldom.asp](https://www.w3schools.com/js/js_htmldom.asp)"
+      ],
+      "timeEstimate": 60
+    },
+    {
+      "id": "JS-DAY13-002",
+      "title": "Thực hành: Thay Đổi Nội Dung và Thuộc Tính",
+      "difficulty": "beginner",
+      "type": "practice",
+      "description": "Tạo một trang HTML với một số phần tử (ví dụ: h1, p, img). Sử dụng JavaScript để truy cập và thay đổi nội dung và các thuộc tính (ví dụ: src, href) của chúng bằng `innerHTML` và `textContent`.",
+      "hints": [
+        "Sử dụng `getElementById` hoặc `querySelector` để chọn phần tử.",
+        "Thay đổi `.innerHTML`, `.textContent`."
+      ],
+      "solution": "Viết code JavaScript để thay đổi nội dung và thuộc tính.",
+      "resources": [],
+      "timeEstimate": 60
+    },
+    {
+      "id": "JS-DAY14-001",
+      "title": "DOM - Phần 2: Thao Tác với CSS và Class",
+      "difficulty": "beginner",
+      "type": "practice",
+      "description": "Thay đổi style của các phần tử HTML bằng JavaScript (style properties). Thêm, xóa class bằng `classList.add()`, `classList.remove()`, `classList.toggle()`.",
+      "hints": [
+        "Sử dụng `.style` để thay đổi CSS inline (ví dụ: `element.style.color = 'red'`).",
+        "Sử dụng `.classList.add()`, `.classList.remove()`, `.classList.toggle()` để quản lý class."
+      ],
+      "solution": "Thay đổi style của các phần tử HTML, thêm, xóa class.",
+      "resources": [],
+      "timeEstimate": 60
+    },
+    {
+      "id": "JS-DAY14-002",
+      "title": "Thực hành:  Thay Đổi Style và Class",
+      "difficulty": "beginner",
+      "type": "practice",
+      "description": "Viết code JavaScript để thay đổi màu nền, màu chữ, và thêm/xóa class cho các phần tử HTML (ví dụ: thay đổi màu sắc, làm nổi bật một đoạn văn bản).",
+      "hints": [
+        "Sử dụng `.style` và `.classList`."
+      ],
+      "solution": "Thực hiện thao tác với CSS theo yêu cầu.",
+      "resources": [],
+      "timeEstimate": 60
+    },
+    {
+      "id": "JS-DAY15-001",
+      "title": "DOM - Phần 3: Tạo, Thêm, Xóa và Di Chuyển Phần Tử",
+      "difficulty": "intermediate",
+      "type": "practice",
+      "description": "Tạo các phần tử HTML mới bằng JavaScript (createElement).  Thêm phần tử vào DOM (appendChild, insertBefore).  Xóa phần tử khỏi DOM (removeChild).",
+      "hints": [
+        "Sử dụng `document.createElement('tag')` để tạo phần tử.",
+        "Sử dụng `appendChild()` để thêm vào cuối, `insertBefore()` để thêm trước một phần tử khác.",
+        "Sử dụng `removeChild()` để xóa."
+      ],
+      "solution": "Tạo một danh sách các mục bằng JavaScript và hiển thị chúng trên trang web, cho phép người dùng thêm và xóa các mục.",
+      "resources": [],
+      "timeEstimate": 60
+    },
+    {
+      "id": "JS-DAY15-002",
+      "title": "Thực hành: Xây Dựng TODO List (Phần 1: Thêm Mục)",
+      "difficulty": "intermediate",
+      "type": "project",
+      "description": "Bắt đầu xây dựng ứng dụng TODO List hoàn chỉnh. Tạo giao diện HTML cơ bản (input, button, danh sách) và các chức năng thêm công việc (thêm mục vào danh sách) bằng JavaScript và DOM.",
+      "hints": [
+        "Thiết kế giao diện đơn giản (input, button, danh sách).",
+        "Lấy input từ người dùng.",
+        "Tạo và thêm mục vào danh sách khi click nút.",
+        "Sử dụng các phương thức DOM đã học."
+      ],
+      "solution": "Tạo ứng dụng TODO List với chức năng thêm công việc.",
+      "resources": [],
+      "timeEstimate": 90
+    },
+    {
+      "id": "JS-DAY16-001",
+      "title": "DOM - Phần 4:  Sự Kiện (Events) - Xử Lý Sự Kiện và Event Object",
+      "difficulty": "intermediate",
+      "type": "practice",
+      "description": "Tìm hiểu về sự kiện.  Xử lý sự kiện bằng `addEventListener`. Đối tượng sự kiện (event object): `event.target`, `event.type`, ... Ngăn chặn hành vi mặc định của sự kiện (`preventDefault`).",
+      "hints": [
+        "Sự kiện là hành động xảy ra trong trang web.",
+        "Sử dụng `addEventListener('event', function(event) { ... })` để lắng nghe sự kiện.",
+        "Đối tượng sự kiện chứa thông tin về sự kiện.  Sử dụng `event.target` để truy cập phần tử đã kích hoạt sự kiện.",
+        "Sử dụng `event.preventDefault()` để ngăn chặn hành vi mặc định của trình duyệt (ví dụ: submit form)."
+      ],
+      "solution": "Ví dụ về xử lý sự kiện click, lấy thông tin từ event object.",
+      "resources": [],
+      "timeEstimate": 60
+    },
+    {
+      "id": "JS-DAY16-002",
+      "title": "Thực hành: Xử Lý Form và Validation (cơ bản)",
+      "difficulty": "intermediate",
+      "type": "practice",
+      "description": "Tạo một form với các trường input (ví dụ: tên, email). Xử lý sự kiện submit. Ngăn chặn hành vi submit mặc định của form, lấy giá trị từ các trường input và hiển thị chúng trên console.  Thực hiện validation (kiểm tra dữ liệu).",
+      "hints": [
+        "Sử dụng `event.preventDefault()`.",
+        "Lấy giá trị từ các trường input (ví dụ: `inputElement.value`).",
+        "Kiểm tra dữ liệu (ví dụ: trường email phải có định dạng đúng)."
+      ],
+      "solution": "Tạo form và xử lý sự kiện submit. Thực hiện validation.",
+      "resources": [],
+      "timeEstimate": 90
+    },
+    {
+      "id": "JS-DAY17-001",
+      "title": "DOM - Phần 5: Hoàn Thiện TODO List",
+      "difficulty": "intermediate",
+      "type": "project",
+      "description": "Hoàn thiện ứng dụng TODO List:  Thêm chức năng đánh dấu hoàn thành (thay đổi style), và xóa công việc.  Sử dụng local storage để lưu trữ dữ liệu.",
+      "hints": [
+        "Sử dụng sự kiện click để đánh dấu hoàn thành (toggle class 'completed').",
+        "Thêm nút xóa cho mỗi mục TODO.",
+        "Sử dụng `localStorage` để lưu trữ danh sách TODO."
+      ],
+      "solution": "Hoàn thiện các chức năng của TODO list.",
+      "resources": [],
+      "timeEstimate": 120
+    },
+    {
+      "id": "JS-DAY18-001",
+      "title": "JSON (JavaScript Object Notation)",
+      "difficulty": "beginner",
+      "type": "practice",
+      "description": "Giới thiệu về JSON: khái niệm, vai trò, và định dạng dữ liệu. Sử dụng `JSON.stringify()` và `JSON.parse()` để chuyển đổi giữa đối tượng JavaScript và chuỗi JSON.",
+      "hints": [
+        "JSON là định dạng dữ liệu dạng chuỗi, thường được sử dụng để trao đổi dữ liệu.",
+        "`JSON.stringify()` chuyển đổi đối tượng JavaScript thành chuỗi JSON.",
+        "`JSON.parse()` chuyển đổi chuỗi JSON thành đối tượng JavaScript."
+      ],
+      "solution": "Ví dụ về stringify và parse.",
+      "resources": [
+        "MDN JSON: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)",
+        "W3Schools JavaScript JSON: [https://www.w3schools.com/js/js_json.asp](https://www.w3schools.com/js/js_json.asp)"
+      ],
+      "timeEstimate": 45
+    },
+    {
+      "id": "JS-DAY18-002",
+      "title": "Thực hành: Làm Việc với JSON và LocalStorage",
+      "difficulty": "intermediate",
+      "type": "practice",
+      "description": "Chuyển đổi một đối tượng JavaScript phức tạp (lồng nhau) thành JSON string và ngược lại.  Lưu trữ dữ liệu JSON trong LocalStorage và lấy dữ liệu từ LocalStorage.",
+      "hints": [
+        "Sử dụng `JSON.stringify()` và `JSON.parse()` để chuyển đổi.",
+        "Sử dụng `localStorage.setItem()`, `localStorage.getItem()`, và `localStorage.removeItem()`."
+      ],
+      "solution": "Chuyển đổi và hiển thị dữ liệu từ LocalStorage (ví dụ: danh sách TODO).",
+      "resources": [],
+      "timeEstimate": 60
+    },
+    {
+      "id": "JS-DAY19-001",
+      "title": "Fetch API - Phần 1:  Giới Thiệu và GET Requests",
+      "difficulty": "intermediate",
+      "type": "practice",
+      "description": "Giới thiệu về Fetch API: khái niệm, cách sử dụng để gửi yêu cầu HTTP (GET) và xử lý phản hồi. Làm việc với dữ liệu JSON từ API.",
+      "hints": [
+        "Fetch API dùng để giao tiếp với server (lấy dữ liệu từ API).",
+        "Sử dụng `fetch('url')` để gửi GET request.",
+        "Xử lý response: kiểm tra `response.status`, đọc dữ liệu JSON bằng `.json()`."
+      ],
+      "solution": "Ví dụ về việc lấy dữ liệu từ một API công cộng (ví dụ: JSONPlaceholder) và hiển thị trên trang web (ví dụ: danh sách các bài viết, comments, ...).",
+      "resources": [
+        "MDN Fetch API: [https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)",
+        "W3Schools JavaScript Fetch: [https://www.w3schools.com/js/js_api_fetch.asp](https://www.w3schools.com/js/js_api_fetch.asp)"
+      ],
+      "timeEstimate": 60
+    },
+    {
+      "id": "JS-DAY19-002",
+      "title": "Thực hành:  Hiển Thị Dữ Liệu từ API (GET)",
+      "difficulty": "intermediate",
+      "type": "practice",
+      "description": "Sử dụng Fetch API để lấy dữ liệu từ một API công cộng (ví dụ: JSONPlaceholder) và hiển thị dữ liệu (ví dụ: danh sách các bài viết, comments,...) lên trang web. Sử dụng `async/await` để quản lý các thao tác bất đồng bộ.",
+      "hints": [
+        "Sử dụng `fetch()` để lấy dữ liệu.",
+        "Sử dụng `.then()` hoặc `async/await` để xử lý response.",
+        "Sử dụng DOM để hiển thị dữ liệu lên trang web."
+      ],
+      "solution": "Hiển thị dữ liệu từ API lên trang web.",
+      "resources": [],
+      "timeEstimate": 90
+    },
+    {
+      "id": "JS-DAY20-001",
+      "title": "Fetch API - Phần 2: POST, PUT, DELETE",
+      "difficulty": "intermediate",
+      "type": "practice",
+      "description": "Sử dụng Fetch API với các phương thức POST, PUT, và DELETE để gửi dữ liệu lên server và xử lý phản hồi. Bao gồm các header cần thiết và  xử lý lỗi (status code).",
+      "hints": [
+        "Sử dụng option `method` (POST, PUT, DELETE) và `body` trong fetch.",
+        "Đặt header `Content-Type` cho JSON (nếu gửi JSON).",
+        "Xử lý lỗi bằng cách kiểm tra `response.status` và sử dụng `.catch()`."
+      ],
+      "solution": "Ví dụ về POST, PUT, DELETE requests.",
+      "resources": [],
+      "timeEstimate": 60
+    },
+    {
+      "id": "JS-DAY20-002",
+      "title": "Thực hành:  CRUD Operation với API",
+      "difficulty": "intermediate",
+      "type": "practice",
+      "description": "Sử dụng Fetch API để thực hiện các thao tác CRUD (Create, Read, Update, Delete) trên dữ liệu từ API (ví dụ: JSONPlaceholder).",
+      "hints": [
+        "Sử dụng GET để đọc (đã thực hiện trong ngày 19).",
+        "Sử dụng POST để tạo (tạo một bài viết mới).",
+        "Sử dụng PUT để cập nhật.",
+        "Sử dụng DELETE để xóa."
+      ],
+      "solution": "Thực hiện các thao tác CRUD theo yêu cầu.",
+      "resources": [],
+      "timeEstimate": 90
+    },
+    {
+      "id": "JS-DAY21-001",
+      "title": "Asynchronous JavaScript: Promises",
+      "difficulty": "intermediate",
+      "type": "practice",
+      "description": "Tìm hiểu về khái niệm bất đồng bộ (asynchronous) trong JavaScript và Promises. Tìm hiểu về các trạng thái của Promise (`pending`, `fulfilled`, `rejected`) và cách sử dụng `.then()`, `.catch()`, và `finally()` để xử lý kết quả.",
+      "hints": [
+        "Promises giúp quản lý các tác vụ bất đồng bộ.",
+        "`.then()`: xử lý khi Promise thành công.",
+        "`.catch()`: xử lý khi Promise thất bại.",
+        "`.finally()`: luôn thực hiện, bất kể thành công hay thất bại."
+      ],
+      "solution": "Ví dụ về sử dụng Promises.",
+      "resources": [
+        "MDN Promises: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)"
+      ],
+      "timeEstimate": 60
+    },
+    {
+      "id": "JS-DAY21-002",
+      "title": "Thực hành: Tạo và Sử Dụng Promises",
+      "difficulty": "intermediate",
+      "type": "practice",
+      "description": "Tạo một Promise mô phỏng một yêu cầu mạng (ví dụ, sử dụng `setTimeout`) và sử dụng `.then()` và `.catch()` để xử lý kết quả. Viết một hàm trả về Promise.",
+      "hints": [
+        "Tạo Promise với `new Promise((resolve, reject) => { ... })`.",
+        "Sử dụng `setTimeout` để mô phỏng độ trễ.",
+        "Trong `setTimeout()`, gọi `resolve(data)` nếu thành công, hoặc `reject(error)` nếu thất bại."
+      ],
+      "solution": "Triển khai và kiểm thử Promise.",
+      "resources": [],
+      "timeEstimate": 60
+    },
+    {
+      "id": "JS-DAY22-001",
+      "title": "Asynchronous JavaScript: async/await",
+      "difficulty": "intermediate",
+      "type": "practice",
+      "description": "Tìm hiểu về `async/await`. Cách sử dụng `async/await` để viết code asynchronous một cách dễ đọc và dễ hiểu hơn.  Xử lý lỗi với `try...catch`.",
+      "hints": [
+        "`async` đánh dấu hàm là asynchronous.",
+        "`await` chờ Promise resolve.",
+        "Sử dụng `try...catch` để bắt lỗi (khi dùng `await`)."
+      ],
+      "solution": "Ví dụ về sử dụng async/await.",
+      "resources": [
+        "MDN async/await: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)"
+      ],
+      "timeEstimate": 60
+    },
+    {
+      "id": "JS-DAY22-002",
+      "title": "Thực hành: Chuyển Đổi Promise thành async/await",
+      "difficulty": "intermediate",
+      "type": "practice",
+      "description": "Viết lại hàm đã dùng Promise ở ngày 21, bây giờ sử dụng async/await.  Xử lý lỗi bằng `try...catch`.",
+      "hints": [
+        "Sử dụng `async function`.",
+        "Sử dụng `await` để chờ Promise resolve.",
+        "Sử dụng `try...catch` để xử lý lỗi."
+      ],
+      "solution": "Chuyển đổi và kiểm tra.",
+      "resources": [],
+      "timeEstimate": 60
+    },
+    {
+      "id": "JS-DAY23-001",
+      "title": "LocalStorage và SessionStorage (Tiếp)",
+      "difficulty": "intermediate",
+      "type": "practice",
+      "description": "Thực hành làm việc với LocalStorage và SessionStorage: lưu trữ và lấy dữ liệu.  Tìm hiểu về các vấn đề liên quan đến việc lưu trữ các đối tượng phức tạp và giải pháp.",
+      "hints": [
+        "Lưu trữ dữ liệu dạng JSON.",
+        "Sử dụng `localStorage.setItem()`, `localStorage.getItem()`, và `localStorage.removeItem()`.",
+        "Sử dụng `JSON.stringify()` và `JSON.parse()` để lưu trữ/lấy object."
+      ],
+      "solution": "Ví dụ về lưu trữ, truy xuất và xóa dữ liệu.",
+      "resources": [
+        "MDN Web Storage API: [https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)"
+      ],
+      "timeEstimate": 60
+    },
+    {
+      "id": "JS-DAY23-002",
+      "title": "Thực hành:  Cải Tiến TODO List (Storage)",
+      "difficulty": "intermediate",
+      "type": "project",
+      "description": "Cải tiến ứng dụng TODO List:  Lưu trữ danh sách các mục TODO trong LocalStorage. Tải lại danh sách khi trang web được tải lại.  Cập nhật LocalStorage khi thêm, xóa, hoặc đánh dấu hoàn thành một công việc.",
+      "hints": [
+        "Lưu trữ dữ liệu dạng JSON trong LocalStorage.",
+        "Lấy dữ liệu từ LocalStorage khi trang được tải.",
+        "Cập nhật LocalStorage mỗi khi có thay đổi trong TODO List."
+      ],
+      "solution": "Hoàn thiện các chức năng của TODO list.",
+      "resources": [],
+      "timeEstimate": 90
+    },
+    {
+      "id": "JS-DAY24-001",
+      "title": "Lập Trình Hướng Đối Tượng (OOP) - Phần 3:  Kế Thừa (Inheritance) và Super",
+      "difficulty": "intermediate",
+      "type": "practice",
+      "description": "Tìm hiểu về kế thừa: khái niệm, cách sử dụng `extends`, và `super()`.",
+      "hints": [
+        "Kế thừa cho phép class con kế thừa thuộc tính và phương thức của class cha.",
+        "Sử dụng từ khóa `extends` để kế thừa.",
+        

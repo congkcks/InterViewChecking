@@ -1,0 +1,111 @@
+﻿=== KHÓA HỌC: DOM Manipulation ===
+Mô tả: Tìm hiểu cách JavaScript tương tác và thao tác với Document Object Model (DOM) của trang web. Bạn sẽ học cách chọn các phần tử HTML, thay đổi nội dung, thuộc tính, kiểu dáng và phản ứng với các tương tác của người dùng.
+
+Mục tiêu học tập:
+- Hiểu khái niệm và cấu trúc của DOM.
+- Sử dụng JavaScript để chọn các phần tử HTML bằng nhiều phương pháp khác nhau.
+- Thay đổi nội dung văn bản và HTML của các phần tử.
+- Sửa đổi thuộc tính và kiểu dáng CSS của các phần tử.
+- Thêm, sửa đổi và xóa các phần tử HTML một cách linh hoạt.
+- Xử lý các sự kiện DOM để tạo ra các trang web tương tác.
+
+Điều kiện tiên quyết:
+- HTML cơ bản: Hiểu cấu trúc cơ bản của tài liệu HTML, các thẻ và thuộc tính.
+- CSS cơ bản: Biết cách sử dụng CSS để tạo kiểu cho các phần tử HTML.
+- JavaScript cơ bản: Nắm vững các khái niệm biến, kiểu dữ liệu, hàm và toán tử trong JavaScript.
+
+Danh sách bài tập:
+
+DOM-PRACTICE-001: Chọn phần tử và thay đổi nội dung
+Loại: practice, Độ khó: beginner
+Mô tả: Cho một trang HTML đơn giản có một đoạn văn (paragraph) với id là `myParagraph`. Sử dụng JavaScript để chọn phần tử này và thay đổi nội dung văn bản của nó thành 'Nội dung đã được thay đổi bởi JavaScript'.
+Thời gian ước tính: 15 phút
+
+Gợi ý:
+- Sử dụng `document.getElementById()` để chọn phần tử theo id.
+- Thuộc tính `textContent` hoặc `innerText` được sử dụng để thay đổi nội dung văn bản của một phần tử.
+
+Tài nguyên:
+- https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
+- https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent
+
+DOM-PRACTICE-002: Thay đổi kiểu dáng CSS
+Loại: practice, Độ khó: beginner
+Mô tả: Cho một thẻ `div` với class là `box`. Sử dụng JavaScript để chọn tất cả các phần tử có class `box` và thay đổi màu nền của chúng thành màu đỏ và màu chữ thành màu trắng.
+Thời gian ước tính: 20 phút
+
+Gợi ý:
+- Sử dụng `document.querySelectorAll()` để chọn tất cả các phần tử theo class.
+- Thuộc tính `style` được sử dụng để thay đổi kiểu dáng CSS trực tiếp trên phần tử.
+- Sử dụng vòng lặp `forEach` để duyệt qua danh sách các phần tử đã chọn.
+
+Tài nguyên:
+- https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll
+- https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/style
+
+DOM-PROJECT-001: Tạo danh sách todo đơn giản
+Loại: project, Độ khó: intermediate
+Mô tả: Xây dựng một danh sách todo đơn giản cho phép người dùng thêm các mục mới vào danh sách. Khi người dùng nhập nội dung vào ô input và nhấn nút 'Thêm', một mục mới sẽ được thêm vào danh sách hiển thị trên trang. Sử dụng JavaScript để thao tác DOM và tạo các phần tử mới.
+Thời gian ước tính: 60 phút
+
+Gợi ý:
+- Tạo cấu trúc HTML gồm một ô input, nút 'Thêm' và một danh sách `ul` rỗng để hiển thị các mục todo.
+- Lắng nghe sự kiện 'click' trên nút 'Thêm'.
+- Trong hàm xử lý sự kiện, lấy giá trị từ ô input.
+- Tạo một phần tử `li` mới, đặt nội dung là giá trị từ input và thêm `li` vào `ul`.
+- Xóa nội dung ô input sau khi thêm mục.
+
+Tài nguyên:
+- https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement
+- https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild
+- https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
+
+DOM-QUIZ-001: Kiểm tra kiến thức DOM cơ bản
+Loại: quiz, Độ khó: beginner
+Mô tả: Chọn đáp án đúng nhất cho các câu hỏi sau để kiểm tra kiến thức của bạn về DOM.
+Thời gian ước tính: 10 phút
+
+DOM-CASE-STUDY-001: Xây dựng slideshow ảnh đơn giản
+Loại: case-study, Độ khó: intermediate
+Mô tả: Xây dựng một slideshow ảnh đơn giản hiển thị một loạt ảnh và cho phép người dùng chuyển đổi giữa các ảnh bằng nút 'Trước' và 'Sau'. Sử dụng JavaScript để thao tác DOM, thay đổi thuộc tính `src` của thẻ `img` và xử lý sự kiện click.
+Thời gian ước tính: 90 phút
+
+Gợi ý:
+- Tạo cấu trúc HTML gồm một thẻ `img` để hiển thị ảnh, nút 'Trước' và nút 'Sau'.
+- Tạo một mảng chứa đường dẫn đến các ảnh.
+- Khởi tạo một biến để theo dõi chỉ số ảnh hiện tại.
+- Khi nút 'Sau' được click, tăng chỉ số ảnh và cập nhật thuộc tính `src` của thẻ `img` với ảnh tiếp theo trong mảng. Tương tự cho nút 'Trước'.
+- Xử lý trường hợp khi đến ảnh cuối cùng hoặc ảnh đầu tiên để vòng lại danh sách ảnh.
+
+Tài nguyên:
+- https://www.w3schools.com/howto/howto_js_slideshow.asp
+- https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/src
+
+Tiêu chí đánh giá:
+- Các bài tập thực hành và dự án được hoàn thành đúng yêu cầu.
+- Code JavaScript rõ ràng, dễ đọc và tuân thủ các nguyên tắc cơ bản.
+- Khả năng áp dụng kiến thức DOM để giải quyết các vấn đề thực tế.
+- Hiểu rõ các khái niệm và phương pháp thao tác DOM được trình bày trong chủ đề.
+
+Câu hỏi trắc nghiệm:
+
+Câu hỏi 1: DOM là viết tắt của cụm từ nào?
+  A. Document Object Model
+  B. Data Object Model
+  C. Design Object Model
+  D. Dynamic Object Model
+  Đáp án đúng: Document Object Model
+
+Câu hỏi 2: Phương thức nào sau đây được sử dụng để chọn một phần tử HTML có id cụ thể?
+  A. document.querySelector()
+  B. document.getElementsByClassName()
+  C. document.getElementById()
+  D. document.getElementsByTagName()
+  Đáp án đúng: document.getElementById()
+
+Câu hỏi 3: Thuộc tính nào được sử dụng để thay đổi nội dung văn bản của một phần tử HTML?
+  A. innerHTML
+  B. textContent
+  C. innerText
+  D. value
+  Đáp án đúng: textContent

@@ -1,0 +1,145 @@
+﻿{
+  "topic": {
+    "name": "DOM Manipulation",
+    "description": "Tìm hiểu cách JavaScript tương tác và thao tác với Document Object Model (DOM) của trang web. Bạn sẽ học cách chọn các phần tử HTML, thay đổi nội dung, thuộc tính, kiểu dáng và phản ứng với các tương tác của người dùng.",
+    "learningObjectives": [
+      "Hiểu khái niệm và cấu trúc của DOM.",
+      "Sử dụng JavaScript để chọn các phần tử HTML bằng nhiều phương pháp khác nhau.",
+      "Thay đổi nội dung văn bản và HTML của các phần tử.",
+      "Sửa đổi thuộc tính và kiểu dáng CSS của các phần tử.",
+      "Thêm, sửa đổi và xóa các phần tử HTML một cách linh hoạt.",
+      "Xử lý các sự kiện DOM để tạo ra các trang web tương tác."
+    ]
+  },
+  "prerequisites": [
+    "HTML cơ bản: Hiểu cấu trúc cơ bản của tài liệu HTML, các thẻ và thuộc tính.",
+    "CSS cơ bản: Biết cách sử dụng CSS để tạo kiểu cho các phần tử HTML.",
+    "JavaScript cơ bản: Nắm vững các khái niệm biến, kiểu dữ liệu, hàm và toán tử trong JavaScript."
+  ],
+  "exercises": [
+    {
+      "id": "DOM-PRACTICE-001",
+      "title": "Chọn phần tử và thay đổi nội dung",
+      "difficulty": "beginner",
+      "type": "practice",
+      "description": "Cho một trang HTML đơn giản có một đoạn văn (paragraph) với id là `myParagraph`. Sử dụng JavaScript để chọn phần tử này và thay đổi nội dung văn bản của nó thành 'Nội dung đã được thay đổi bởi JavaScript'.",
+      "hints": [
+        "Sử dụng `document.getElementById()` để chọn phần tử theo id.",
+        "Thuộc tính `textContent` hoặc `innerText` được sử dụng để thay đổi nội dung văn bản của một phần tử."
+      ],
+      "solution": "```javascript\nconst paragraph = document.getElementById('myParagraph');\nparagraph.textContent = 'Nội dung đã được thay đổi bởi JavaScript';\n```",
+      "resources": [
+        "https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById",
+        "https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent"
+      ],
+      "timeEstimate": 15
+    },
+    {
+      "id": "DOM-PRACTICE-002",
+      "title": "Thay đổi kiểu dáng CSS",
+      "difficulty": "beginner",
+      "type": "practice",
+      "description": "Cho một thẻ `div` với class là `box`. Sử dụng JavaScript để chọn tất cả các phần tử có class `box` và thay đổi màu nền của chúng thành màu đỏ và màu chữ thành màu trắng.",
+      "hints": [
+        "Sử dụng `document.querySelectorAll()` để chọn tất cả các phần tử theo class.",
+        "Thuộc tính `style` được sử dụng để thay đổi kiểu dáng CSS trực tiếp trên phần tử.",
+        "Sử dụng vòng lặp `forEach` để duyệt qua danh sách các phần tử đã chọn."
+      ],
+      "solution": "```javascript\nconst boxes = document.querySelectorAll('.box');\nboxes.forEach(box => {\n  box.style.backgroundColor = 'red';\n  box.style.color = 'white';\n});\n```",
+      "resources": [
+        "https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll",
+        "https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/style"
+      ],
+      "timeEstimate": 20
+    },
+    {
+      "id": "DOM-PROJECT-001",
+      "title": "Tạo danh sách todo đơn giản",
+      "difficulty": "intermediate",
+      "type": "project",
+      "description": "Xây dựng một danh sách todo đơn giản cho phép người dùng thêm các mục mới vào danh sách. Khi người dùng nhập nội dung vào ô input và nhấn nút 'Thêm', một mục mới sẽ được thêm vào danh sách hiển thị trên trang. Sử dụng JavaScript để thao tác DOM và tạo các phần tử mới.",
+      "hints": [
+        "Tạo cấu trúc HTML gồm một ô input, nút 'Thêm' và một danh sách `ul` rỗng để hiển thị các mục todo.",
+        "Lắng nghe sự kiện 'click' trên nút 'Thêm'.",
+        "Trong hàm xử lý sự kiện, lấy giá trị từ ô input.",
+        "Tạo một phần tử `li` mới, đặt nội dung là giá trị từ input và thêm `li` vào `ul`.",
+        "Xóa nội dung ô input sau khi thêm mục."
+      ],
+      "solution": "```html\n<!DOCTYPE html>\n<html>\n<head>\n<title>Todo List</title>\n</head>\n<body>\n  <input type=\"text\" id=\"todoInput\" placeholder=\"Nhập công việc...\">\n  <button id=\"addButton\">Thêm</button>\n  <ul id=\"todoList\"></ul>\n\n  <script>\n    const input = document.getElementById('todoInput');\n    const button = document.getElementById('addButton');\n    const list = document.getElementById('todoList');\n\n    button.addEventListener('click', () => {\n      const todoText = input.value.trim();\n      if (todoText !== '') {\n        const listItem = document.createElement('li');\n        listItem.textContent = todoText;\n        list.appendChild(listItem);\n        input.value = '';\n      }\n    });\n  </script>\n</body>\n</html>\n```",
+      "resources": [
+        "https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement",
+        "https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild",
+        "https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener"
+      ],
+      "timeEstimate": 60
+    },
+    {
+      "id": "DOM-QUIZ-001",
+      "title": "Kiểm tra kiến thức DOM cơ bản",
+      "difficulty": "beginner",
+      "type": "quiz",
+      "description": "Chọn đáp án đúng nhất cho các câu hỏi sau để kiểm tra kiến thức của bạn về DOM.",
+      "hints": [],
+      "solution": [
+        {
+          "question": "DOM là viết tắt của cụm từ nào?",
+          "options": [
+            "Document Object Model",
+            "Data Object Model",
+            "Design Object Model",
+            "Dynamic Object Model"
+          ],
+          "answer": "Document Object Model"
+        },
+        {
+          "question": "Phương thức nào sau đây được sử dụng để chọn một phần tử HTML có id cụ thể?",
+          "options": [
+            "document.querySelector()",
+            "document.getElementsByClassName()",
+            "document.getElementById()",
+            "document.getElementsByTagName()"
+          ],
+          "answer": "document.getElementById()"
+        },
+        {
+          "question": "Thuộc tính nào được sử dụng để thay đổi nội dung văn bản của một phần tử HTML?",
+          "options": [
+            "innerHTML",
+            "textContent",
+            "innerText",
+            "value"
+          ],
+          "answer": "textContent"
+        }
+      ],
+      "resources": [],
+      "timeEstimate": 10
+    },
+    {
+      "id": "DOM-CASE-STUDY-001",
+      "title": "Xây dựng slideshow ảnh đơn giản",
+      "difficulty": "intermediate",
+      "type": "case-study",
+      "description": "Xây dựng một slideshow ảnh đơn giản hiển thị một loạt ảnh và cho phép người dùng chuyển đổi giữa các ảnh bằng nút 'Trước' và 'Sau'. Sử dụng JavaScript để thao tác DOM, thay đổi thuộc tính `src` của thẻ `img` và xử lý sự kiện click.",
+      "hints": [
+        "Tạo cấu trúc HTML gồm một thẻ `img` để hiển thị ảnh, nút 'Trước' và nút 'Sau'.",
+        "Tạo một mảng chứa đường dẫn đến các ảnh.",
+        "Khởi tạo một biến để theo dõi chỉ số ảnh hiện tại.",
+        "Khi nút 'Sau' được click, tăng chỉ số ảnh và cập nhật thuộc tính `src` của thẻ `img` với ảnh tiếp theo trong mảng. Tương tự cho nút 'Trước'.",
+        "Xử lý trường hợp khi đến ảnh cuối cùng hoặc ảnh đầu tiên để vòng lại danh sách ảnh."
+      ],
+      "solution": "Hướng dẫn giải quyết: \n1. **HTML Structure:** Tạo `div` chứa `img`, nút 'Trước', nút 'Sau'.\n2. **Image Array:** Khai báo mảng `images` chứa đường dẫn ảnh.\n3. **Current Index:** Khởi tạo `currentIndex = 0`.\n4. **Event Listeners:** Thêm event listeners cho nút 'Trước' và 'Sau'.\n5. **Update Image Function:** Hàm `updateImage()` cập nhật `img.src` dựa trên `images[currentIndex]`. Xử lý index vượt quá giới hạn mảng (vòng lặp).\n6. **Initial Load:** Gọi `updateImage()` khi trang tải lần đầu.",
+      "resources": [
+        "https://www.w3schools.com/howto/howto_js_slideshow.asp",
+        "https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/src"
+      ],
+      "timeEstimate": 90
+    }
+  ],
+  "assessmentCriteria": [
+    "Các bài tập thực hành và dự án được hoàn thành đúng yêu cầu.",
+    "Code JavaScript rõ ràng, dễ đọc và tuân thủ các nguyên tắc cơ bản.",
+    "Khả năng áp dụng kiến thức DOM để giải quyết các vấn đề thực tế.",
+    "Hiểu rõ các khái niệm và phương pháp thao tác DOM được trình bày trong chủ đề."
+  ]
+}

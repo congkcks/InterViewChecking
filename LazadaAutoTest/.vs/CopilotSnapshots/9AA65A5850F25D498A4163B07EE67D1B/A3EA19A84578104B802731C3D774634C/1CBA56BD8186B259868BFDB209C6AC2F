@@ -1,0 +1,46 @@
+﻿using LazadaAutoTest.Model;
+using OpenQA.Selenium;
+using System.Collections.Generic;
+using System.Linq;
+
+
+public class Lazada
+{
+    private readonly IWebDriver driver;
+
+    public Lazada(IWebDriver driver)
+    {
+        this.driver = driver;
+    }
+
+    public void NavigateToHome()
+    {
+        driver.Navigate().GoToUrl("https://www.lazada.vn/");
+    }
+
+    public void Search(string searchTerm)
+    {
+        driver.FindElement(By.CssSelector("input[placeholder='Tìm kiếm trên Lazada']")).SendKeys(searchTerm + Keys.Enter);
+    }
+
+    public List<Product> ExtractProducts(string searchTerm)
+    {
+        var products = new List<Product>();
+        var items = driver.FindElements(By.CssSelector(".card-jfy-item")).ToList();
+
+        foreach (var item in items)
+        {
+            var name = item.FindElement(By.CssSelector(".card-jfy-title")).Text.Trim();
+            var priceText = item.FindElement(By.CssSelector(".card-jfy-price")).Text.Trim();
+            var price = double.Parse(System.Text.RegularExpressions.Regex.Replace(priceText, "[^\\d.]", ""));
+            var link = item.FindElement(By.TagName("a")).GetAttribute("href");
+
+            if (name.ToLower().Contains(searchTerm.ToLower()))
+            {
+                products.Add(new Product { Website = "Lazada", Name = name, Price = price, Link = link });
+            }
+        }
+
+        return products;
+    }
+}

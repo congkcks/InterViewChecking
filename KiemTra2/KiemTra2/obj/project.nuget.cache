@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FbgI2mXf2ZE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\source\\repos\\KiemTra2\\KiemTra2\\KiemTra2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.4\\microsoft.extensions.dependencyinjection.9.0.4.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

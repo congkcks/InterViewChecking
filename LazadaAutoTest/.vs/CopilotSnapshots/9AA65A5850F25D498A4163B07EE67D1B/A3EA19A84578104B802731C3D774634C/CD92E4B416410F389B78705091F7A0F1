@@ -1,0 +1,74 @@
+﻿using LazadaAutoTest.Model;
+using LazadaAutoTest.Pages;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
+using NUnit.Framework;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace LazadaAutoTest.Test
+{
+    [TestFixture]
+    public class EcommerceTest
+    {
+        private readonly IWebDriver driver;
+        private readonly Lazada lazada;
+
+        public EcommerceTest()
+        {
+            driver = new ChromeDriver();
+            lazada = new Lazada(driver);
+        }
+
+        [Test]
+        public void RunEcommerceTest()
+        {
+            try
+            {
+                var searchTerm = "iPhone 16";
+
+                // Lazada Test
+                lazada.NavigateToHome();
+                lazada.Search(searchTerm);
+                var lazadaProducts = lazada.ExtractProducts(searchTerm);
+                if (!lazadaProducts.Any()) throw new Exception("No iPhone 16 found on Lazada");
+
+                // eBay Test
+                driver.Navigate().GoToUrl("https://www.ebay.com/");
+                driver.FindElement(By.Id("gh-ac")).SendKeys(searchTerm);
+                driver.FindElement(By.Id("gh-btn")).Click();
+                var ebayProducts = new List<Product>();
+                var ebayItems = driver.FindElements(By.CssSelector(".s-item")).ToList();
+                foreach (var item in ebayItems)
+                {
+                    var name = item.FindElement(By.CssSelector(".s-item__title")).Text.Trim();
+                    var priceText = item.FindElement(By.CssSelector(".s-item__price")).Text.Trim();
+                    var price = double.Parse(System.Text.RegularExpressions.Regex.Replace(priceText, "[^\\d.]", ""));
+                    var link = item.FindElement(By.CssSelector(".s-item__link")).GetAttribute("href");
+
+                    if (name.ToLower().Contains(searchTerm.ToLower()))
+                    {
+                        ebayProducts.Add(new Product { Website = "eBay", Name = name, Price = price, Link = link });
+                    }
+                }
+                if (!ebayProducts.Any()) throw new Exception("No iPhone 16 found on eBay");
+
+                var allProducts = lazadaProducts.Concat(ebayProducts).OrderBy(p => p.Price).ToList();
+                Console.WriteLine("=== iPhone 16 Price Comparison Report ===");
+                allProducts.ForEach(p =>
+                {
+                    Console.WriteLine($"Website: {p.Website}");
+                    Console.WriteLine($"Product: {p.Name}");
+                    Console.WriteLine($"Price: ${p.Price:F2}");
+                    Console.WriteLine($"Link: {p.Link}");
+                    Console.WriteLine("---");
+                });
+            }
+            finally
+            {
+                driver.Quit();
+            }
+        }
+    }
+}

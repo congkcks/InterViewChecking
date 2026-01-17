@@ -1,0 +1,505 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\controllers\\suatchieucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\controllers\\suatchieucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\models\\suatchieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\models\\suatchieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\models\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\models\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\models\\ghe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\models\\ghe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\dto\\taodonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\dto\\taodonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\controllers\\vecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\controllers\\vecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\dto\\dangkyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\dto\\dangkyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\controllers\\phongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\controllers\\phongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\dto\\chonnhieugherequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\dto\\chonnhieugherequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\dto\\taosuatchieurequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\dto\\taosuatchieurequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\dto\\taophongrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\dto\\taophongrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\models\\don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\models\\don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\controllers\\doncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\controllers\\doncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\dto\\capnhatsuatchieurequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\dto\\capnhatsuatchieurequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\models\\ve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\models\\ve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\dto\\capnhatdonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\dto\\capnhatdonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\models\\phim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\models\\phim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\controllers\\phimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\controllers\\phimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\models\\cachieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\models\\cachieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\controllers\\cachieucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\controllers\\cachieucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\models\\rapchieuphimcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\models\\rapchieuphimcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|c:\\users\\acer\\source\\repos\\xemphimban2\\xemphimban2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A54CF56B-4FAB-4841-AE7C-063D4F9A4B12}|XemPhimBan2\\XemPhimBan2.csproj|solutionrelative:xemphimban2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 710,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 14,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DangKyRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\DTO\\DangKyRequest.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\DTO\\DangKyRequest.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\DTO\\DangKyRequest.cs",
+              "RelativeToolTip": "XemPhimBan2\\DTO\\DangKyRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T07:51:50.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SuatChieuController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Controllers\\SuatChieuController.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\Controllers\\SuatChieuController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Controllers\\SuatChieuController.cs",
+              "RelativeToolTip": "XemPhimBan2\\Controllers\\SuatChieuController.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAswNUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:17:17.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Suatchieu.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Models\\Suatchieu.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\Models\\Suatchieu.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Models\\Suatchieu.cs",
+              "RelativeToolTip": "XemPhimBan2\\Models\\Suatchieu.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T04:03:40.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ghe.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Models\\Ghe.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\Models\\Ghe.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Models\\Ghe.cs",
+              "RelativeToolTip": "XemPhimBan2\\Models\\Ghe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T05:50:44.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Phong.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Models\\Phong.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\Models\\Phong.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Models\\Phong.cs",
+              "RelativeToolTip": "XemPhimBan2\\Models\\Phong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T05:57:15.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\Controllers\\TaiKhoanController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "XemPhimBan2\\Controllers\\TaiKhoanController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:35:42.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChonNhieuGheRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\DTO\\ChonNhieuGheRequest.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\DTO\\ChonNhieuGheRequest.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\DTO\\ChonNhieuGheRequest.cs",
+              "RelativeToolTip": "XemPhimBan2\\DTO\\ChonNhieuGheRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:37:01.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PhongController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Controllers\\PhongController.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\Controllers\\PhongController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Controllers\\PhongController.cs",
+              "RelativeToolTip": "XemPhimBan2\\Controllers\\PhongController.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAswNIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T05:59:28.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaoDonRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\DTO\\TaoDonRequest.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\DTO\\TaoDonRequest.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\DTO\\TaoDonRequest.cs",
+              "RelativeToolTip": "XemPhimBan2\\DTO\\TaoDonRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T07:42:59.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Controllers\\VeController.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\Controllers\\VeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Controllers\\VeController.cs",
+              "RelativeToolTip": "XemPhimBan2\\Controllers\\VeController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAswK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:08:17.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaoSuatChieuRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\DTO\\TaoSuatChieuRequest.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\DTO\\TaoSuatChieuRequest.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\DTO\\TaoSuatChieuRequest.cs",
+              "RelativeToolTip": "XemPhimBan2\\DTO\\TaoSuatChieuRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:00:40.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaoPhongRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\DTO\\TaoPhongRequest.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\DTO\\TaoPhongRequest.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\DTO\\TaoPhongRequest.cs",
+              "RelativeToolTip": "XemPhimBan2\\DTO\\TaoPhongRequest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA3wAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T04:51:06.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Don.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Models\\Don.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\Models\\Don.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Models\\Don.cs",
+              "RelativeToolTip": "XemPhimBan2\\Models\\Don.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T07:31:35.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DonController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Controllers\\DonController.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\Controllers\\DonController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Controllers\\DonController.cs",
+              "RelativeToolTip": "XemPhimBan2\\Controllers\\DonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T08:49:48.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CapNhatSuatChieuRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\DTO\\CapNhatSuatChieuRequest.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\DTO\\CapNhatSuatChieuRequest.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\DTO\\CapNhatSuatChieuRequest.cs",
+              "RelativeToolTip": "XemPhimBan2\\DTO\\CapNhatSuatChieuRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:36:16.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\DTO\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\DTO\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\DTO\\LoginRequest.cs",
+              "RelativeToolTip": "XemPhimBan2\\DTO\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T07:48:28.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Ve.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Models\\Ve.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\Models\\Ve.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Models\\Ve.cs",
+              "RelativeToolTip": "XemPhimBan2\\Models\\Ve.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T15:17:50.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Taikhoan.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Models\\Taikhoan.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\Models\\Taikhoan.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Models\\Taikhoan.cs",
+              "RelativeToolTip": "XemPhimBan2\\Models\\Taikhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T07:48:40.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CapNhatDonRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\DTO\\CapNhatDonRequest.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\DTO\\CapNhatDonRequest.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\DTO\\CapNhatDonRequest.cs",
+              "RelativeToolTip": "XemPhimBan2\\DTO\\CapNhatDonRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T16:21:49.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Hoadon.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Models\\Hoadon.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\Models\\Hoadon.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Models\\Hoadon.cs",
+              "RelativeToolTip": "XemPhimBan2\\Models\\Hoadon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:55:17.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Chitiethoadon.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Models\\Chitiethoadon.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\Models\\Chitiethoadon.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Models\\Chitiethoadon.cs",
+              "RelativeToolTip": "XemPhimBan2\\Models\\Chitiethoadon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:02:53.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Phim.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Models\\Phim.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\Models\\Phim.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Models\\Phim.cs",
+              "RelativeToolTip": "XemPhimBan2\\Models\\Phim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:06:14.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PhimController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Controllers\\PhimController.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\Controllers\\PhimController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Controllers\\PhimController.cs",
+              "RelativeToolTip": "XemPhimBan2\\Controllers\\PhimController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:16:09.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Program.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Program.cs",
+              "RelativeToolTip": "XemPhimBan2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T04:04:44.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Cachieu.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Models\\Cachieu.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\Models\\Cachieu.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Models\\Cachieu.cs",
+              "RelativeToolTip": "XemPhimBan2\\Models\\Cachieu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T08:59:08.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CachieuController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Controllers\\CachieuController.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\Controllers\\CachieuController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Controllers\\CachieuController.cs",
+              "RelativeToolTip": "XemPhimBan2\\Controllers\\CachieuController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T08:59:53.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RapchieuphimContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Models\\RapchieuphimContext.cs",
+              "RelativeDocumentMoniker": "XemPhimBan2\\Models\\RapchieuphimContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\Models\\RapchieuphimContext.cs",
+              "RelativeToolTip": "XemPhimBan2\\Models\\RapchieuphimContext.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAgwHgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T04:34:16.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\appsettings.json",
+              "RelativeDocumentMoniker": "XemPhimBan2\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\XemPhimBan2\\XemPhimBan2\\appsettings.json",
+              "RelativeToolTip": "XemPhimBan2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-28T04:34:14.198Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

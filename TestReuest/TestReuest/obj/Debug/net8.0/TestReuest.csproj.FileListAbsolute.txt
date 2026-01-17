@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\TestReuest\TestReuest\bin\Debug\net8.0\TestReuest.exe
+C:\Users\ACER\source\repos\TestReuest\TestReuest\bin\Debug\net8.0\TestReuest.deps.json
+C:\Users\ACER\source\repos\TestReuest\TestReuest\bin\Debug\net8.0\TestReuest.runtimeconfig.json
+C:\Users\ACER\source\repos\TestReuest\TestReuest\bin\Debug\net8.0\TestReuest.dll
+C:\Users\ACER\source\repos\TestReuest\TestReuest\bin\Debug\net8.0\TestReuest.pdb
+C:\Users\ACER\source\repos\TestReuest\TestReuest\obj\Debug\net8.0\TestReuest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\TestReuest\TestReuest\obj\Debug\net8.0\TestReuest.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\TestReuest\TestReuest\obj\Debug\net8.0\TestReuest.AssemblyInfo.cs
+C:\Users\ACER\source\repos\TestReuest\TestReuest\obj\Debug\net8.0\TestReuest.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\TestReuest\TestReuest\obj\Debug\net8.0\TestReuest.dll
+C:\Users\ACER\source\repos\TestReuest\TestReuest\obj\Debug\net8.0\refint\TestReuest.dll
+C:\Users\ACER\source\repos\TestReuest\TestReuest\obj\Debug\net8.0\TestReuest.pdb
+C:\Users\ACER\source\repos\TestReuest\TestReuest\obj\Debug\net8.0\TestReuest.genruntimeconfig.cache
+C:\Users\ACER\source\repos\TestReuest\TestReuest\obj\Debug\net8.0\ref\TestReuest.dll

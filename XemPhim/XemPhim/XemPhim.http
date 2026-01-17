@@ -1,0 +1,6 @@
+@XemPhim_HostAddress = http://localhost:5062
+
+GET {{XemPhim_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
