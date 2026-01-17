@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>OnT</id>
+    <version>1.0.0</version>
+    <authors>OnT</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="c22b1f2d75db3c551ba1f8fbe7a0b62f18d850bc" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ACER\source\repos\OnT\OnT\bin\Debug\net8.0\OnT.runtimeconfig.json" target="lib\net8.0\OnT.runtimeconfig.json" />
+    <file src="C:\Users\ACER\source\repos\OnT\OnT\bin\Debug\net8.0\OnT.dll" target="lib\net8.0\OnT.dll" />
+  </files>
+</package>

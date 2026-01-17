@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\OnT\OnT\bin\Debug\net8.0\OnT.exe
+C:\Users\ACER\source\repos\OnT\OnT\bin\Debug\net8.0\OnT.deps.json
+C:\Users\ACER\source\repos\OnT\OnT\bin\Debug\net8.0\OnT.runtimeconfig.json
+C:\Users\ACER\source\repos\OnT\OnT\bin\Debug\net8.0\OnT.dll
+C:\Users\ACER\source\repos\OnT\OnT\bin\Debug\net8.0\OnT.pdb
+C:\Users\ACER\source\repos\OnT\OnT\obj\Debug\net8.0\OnT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\OnT\OnT\obj\Debug\net8.0\OnT.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OnT\OnT\obj\Debug\net8.0\OnT.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OnT\OnT\obj\Debug\net8.0\OnT.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OnT\OnT\obj\Debug\net8.0\OnT.dll
+C:\Users\ACER\source\repos\OnT\OnT\obj\Debug\net8.0\refint\OnT.dll
+C:\Users\ACER\source\repos\OnT\OnT\obj\Debug\net8.0\OnT.pdb
+C:\Users\ACER\source\repos\OnT\OnT\obj\Debug\net8.0\OnT.genruntimeconfig.cache
+C:\Users\ACER\source\repos\OnT\OnT\obj\Debug\net8.0\ref\OnT.dll
